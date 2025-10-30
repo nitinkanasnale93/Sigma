@@ -10,6 +10,7 @@ public class Average {
         double C = sc.nextDouble();
         double average = (A + B + C) / 3;
         System.out.println("The average of A, B and C is: " + average);
+        sc.close();
     }
 }
 
