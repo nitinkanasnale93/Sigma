@@ -13,12 +13,14 @@ public class Bill {
         System.out.println("Enter the third item price: ");
         double price3 = sc.nextDouble();
 
-        double price = price125 + price2 + price3;
+        double price = price1 + price2 + price3;
         double gst = price * 0.07;
 
         System.out.println("The item price without gst is: " + price);
 
         System.out.println("With gst is: " + gst);
+
+        sc.close();
 
 
     }
