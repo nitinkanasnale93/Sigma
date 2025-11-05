@@ -58,7 +58,7 @@ Each file is a self-contained program focusing on a specific logic or topic.
 
 | 10 | `Evenbet.java` | Print the even number between 9 to 100 |
 
-| 9 | `Swap.java` | Swapping of two numbers |
+| 11 | `Swap.java` | Swapping of two numbers |
 
 
 
