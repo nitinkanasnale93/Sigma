@@ -60,6 +60,9 @@ Each file is a self-contained program focusing on a specific logic or topic.
 
 | 11 | `Swap.java` | Swapping of two numbers |
 
+| 12 | `Multipication.java` | Multipication of a number n |
+
+
 
 
 ---
